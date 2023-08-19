@@ -1,0 +1,31 @@
+p
+		{
+         color:red;
+		}
+*{
+	font-family:cursive;
+}
+input[type]{
+
+         color:red;
+}
+input[type="text"]{
+
+         color:grey;
+}
+input[type="password"]{
+
+         color:green;
+}
+input[type="number"]{
+
+         color:yellow;
+}
+a[href]{
+
+         color:blue;
+}
+font[color]{
+
+         color:skyblue;
+}

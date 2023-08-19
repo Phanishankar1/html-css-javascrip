@@ -1,0 +1,25 @@
+div[id="1"]{
+			height: 200px;
+			width:200px;
+			background-color:red;
+			float: left;
+		}
+		div[id="2"]{
+			height: 200px;
+			width:200px;
+			background-color:green;
+			float:left;
+		}
+		div[id="3"]{
+			height: 200px;
+			width:200px;
+			background-color:yellow;
+				float:left;
+		}
+		div[id="4"]{
+			height: 200px;
+			width:200px;
+			background-color:blue;
+			position:absolute;
+			left:200px;
+		}

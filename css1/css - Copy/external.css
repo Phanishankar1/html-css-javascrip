@@ -1,0 +1,10 @@
+.external{
+	border:3px dotted red;
+	background-color:pink;
+	color:grey;
+}
+h1{
+	border:3px solid red;
+	background-color:green;
+	color:grey;
+}
