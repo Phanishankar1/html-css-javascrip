@@ -1,0 +1,75 @@
+div[id="d1"]
+{
+	height:600px;
+	width:400px;
+}
+div[id="4"]
+{
+	height:600px;
+	width:600px;
+}
+img[id="im1"]{
+	height:200px;
+	width:250px;
+	margin-left: 40px;
+	margin-top: 100px;
+}
+
+.e{
+	margin-left:40px;
+}
+div[id="5"]{
+	height:50px;
+	width:277px;
+	margin-top:30px;
+}
+div[id="6"]
+{
+	height:50px;
+	width:553px;
+}
+div[id="7"]
+{
+	height:50px;
+	width:90px;
+	float:left;
+	margin-left:20px;
+margin-left: 10px;
+border:1px;
+	border-radius:10px;
+}
+div[id="8"]
+{
+	height:50px;
+	width:455px;
+	float:left;
+	margin-right:20px; 
+}
+select[id="9"]
+{
+	height:50px;
+	width:90px;
+	border:1px;
+	border-radius:10px;
+}
+div[id="10"]{
+	height:55px;
+	width:535px;
+	margin-left:0px;
+}
+div[id="10"]
+{
+	margin-left:10px;
+	border-radius: 10px;
+}
+button[id="15"]{
+height:40px;
+width:530px;
+margin-left:10px;
+}
+hr{
+margin:20px;
+}
+div[id="16"]{
+	margin-left:180px;
+}

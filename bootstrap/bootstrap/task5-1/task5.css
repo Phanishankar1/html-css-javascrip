@@ -1,0 +1,79 @@
+#d1
+{
+	height: 550px;
+	width: 300px;
+}
+#d2
+{
+	height: 550px;
+}
+img
+{
+	height:250px;
+	width:200px ;
+	margin-left: 70px;
+	margin-top: 40px;
+}
+.custom-margin-left
+{
+	margin-left: 70px;
+}
+#p1
+{
+	margin-left: 50px;
+	font-size: 15px;
+}
+#p2
+{
+	margin-left: 90px;
+	font-size: 15px;
+}
+#d21
+{
+	
+	height: 30px;
+	width: 200px;
+	margin-left: 40px;
+}
+#i12{
+	height: 30px;
+	width: 200px;
+}
+#d22
+{
+	height: 30px;
+	width: 465px;
+	margin-left: 40px;
+}
+#r3
+{
+	margin-left: 28px;
+}
+#sele{
+	height: 40px;
+width: 80px;
+	
+}
+#num5
+{
+width:370px;	
+}
+#r4{
+	margin-left: 40px;
+	width: 465px;
+	height: 30px;
+}
+#r7{
+	margin-left: 40px;
+	width: 440px;
+}
+hr{
+	height: 2px;
+	display: inline;
+	width: 100px;
+}
+
+#last
+{
+	margin-left: 170px;
+}
